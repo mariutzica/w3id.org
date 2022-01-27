@@ -1,0 +1,3 @@
+# Default response
+
+RewriteRule ^$ https://scientificvariablesontology.org/ [R=303,L]
